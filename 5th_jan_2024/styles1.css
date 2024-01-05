@@ -1,0 +1,82 @@
+#one{
+    height: 25px;
+    width: 100%;
+    background-color:rgb(255, 0, 255);
+    color:white;
+}
+#green{
+    background-color: green;
+}
+#two{
+    height: 25px;
+    width: 100%;
+    background-color:rgb(253, 39, 253);
+    color:white;
+}
+#three{
+    height: 25px;
+    width: 100%;
+    background-color:rgb(253, 88, 253);
+    color:white;
+}
+#four{
+    height: 25px;
+    width: 100%;
+    background-color: rgb(250, 133, 250);
+    color:white;
+}
+#five{
+    height: 25px;
+    width: 100%;
+    background-color: rgb(248, 178, 248);
+    color:white;
+}
+#six{
+    height: 25px;
+    width: 100%;
+    background-color: rgb(253, 218, 253); 
+    color:white;
+}
+#pink{
+    color:magenta;
+}
+#sixb{
+    height: 25px;
+    width: 100%;
+    background-color:rgb(2, 37, 102);
+    color:white;
+}
+#fiveb{
+    height: 25px;
+    width: 100%;
+    background-color:rgb(9, 55, 141);
+    color:white;
+}
+#fourb{
+    height: 25px;
+    width: 100%;
+    background-color:rgb(31, 86, 189);
+    color:white;
+}
+#threeb{
+    height: 25px;
+    width: 100%;
+    background-color: rgb(72, 146, 206);
+    color:white;
+}
+#twob{
+    height: 25px;
+    width: 100%;
+    background-color:  rgb(112, 163, 211);
+    color:white;
+}
+#oneb{
+    height: 25px;
+    width: 100%;
+    background-color: rgb(159, 196, 231);
+    color:white;
+}
+#blue{
+    color: rgb(2, 37, 102)
+
+}
